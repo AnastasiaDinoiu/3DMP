@@ -10,10 +10,10 @@ This repository contains the projects assigned in the Introduction to 3D Modelin
 * _Course 5:_ Crank and slotted link mechanism and Slider crank mechanism
 
 #### Homework:
-* _Homework 1:_ a pixel art style keychain
-* _Homework 2:_ a modified Thingiverse project and four models made using isometric schemes
-* _Homework 3:_ chess pieces set
+* _Homework 1:_ A pixel art style keychain
+* _Homework 2:_ A modified Thingiverse project and four models made using isometric schemes
+* _Homework 3:_ Chess pieces set
 * _Homework 4:_ Scotch yoke mechanism and Geneva mechanism
 
 #### Final project:
-* Swimming dolphin mechanism
+* _Swimming dolphin mechanism)
