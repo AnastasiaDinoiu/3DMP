@@ -16,4 +16,4 @@ This repository contains the projects assigned in the Introduction to 3D Modelin
 * _Homework 4:_ Scotch yoke mechanism and Geneva mechanism
 
 #### Final project:
-* _Swimming dolphin mechanism)
+* _Swimming dolphin mechanism_
