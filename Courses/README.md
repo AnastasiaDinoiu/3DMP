@@ -1,4 +1,4 @@
-## Contents:
+## This folder contains:
 * **Crank and slotted mechanism** 
 <img src="https://user-images.githubusercontent.com/75319867/115424423-5d606000-a207-11eb-86d6-d5965663598c.png" alt="drawing" width="200" style="width:200px;"/>
 
