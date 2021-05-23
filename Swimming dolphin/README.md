@@ -38,10 +38,10 @@ The main joint which needs to be powered to make the mechanism work is the revol
 <img src="https://user-images.githubusercontent.com/75319867/119236014-d1ab5d80-bb3d-11eb-90da-a08c2cac77cd.gif" width="465"> <img src="https://user-images.githubusercontent.com/75319867/119236025-d96b0200-bb3d-11eb-9d6f-a383eb662583.gif" width="465">
 
 ## Software
-The software I used for the 3D modeling and the rendering is Autodesk Fusion 360.
+The software I used for the 3D modeling and the rendering is __Autodesk Fusion 360__.
 
 ## Files
-This repository contains .f3d files with the whole project, from every checkpoint. It also contains images, renderings (.gif, .png) and .stl files with every component.
+This repository contains __.f3d__ files with the whole project, from every checkpoint. It also contains images, renderings (__.gif, .png, .jpg__) and __.stl__ files with every component.
 
 ## Mechanism's creator
 * https://www.myminifactory.com/object/3d-print-99277
@@ -49,7 +49,7 @@ This repository contains .f3d files with the whole project, from every checkpoin
 
 This is how Jwoong's final project looks like:
 
-<img src="https://user-images.githubusercontent.com/75319867/119272761-464ecc80-bc10-11eb-849f-43ec7d612364.jpg" alt="drawing" width="405" style="width:200px;"/> <img src="https://user-images.githubusercontent.com/75319867/119272673-ca548480-bc0f-11eb-9fc6-b0bd93506ff6.gif" alt="drawing" width="400" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/75319867/119272761-464ecc80-bc10-11eb-849f-43ec7d612364.jpg" alt="drawing" width="465" style="width:200px;"/> <img src="https://user-images.githubusercontent.com/75319867/119272673-ca548480-bc0f-11eb-9fc6-b0bd93506ff6.gif" alt="drawing" width="460" style="width:200px;"/>
 
 ## Requirements
 * Start the design from canvases or sketches.
